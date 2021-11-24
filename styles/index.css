@@ -1,0 +1,75 @@
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+p {
+    font-size: 14px;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 1170px;
+    margin: 0px auto 16px auto;
+    height: 92px;
+}
+
+.clr {
+    clear: left;
+    clear: right;
+}
+
+header {
+    background-color: #79787b;
+    width: 100%;
+    margin: 0px;
+    height: 60px;
+    position: relative;
+    border-bottom: 3px solid hsl(257deg 3% 57% / 46%);
+    overflow: hidden;
+}
+
+.logo {
+    width: 100%;
+    margin-top: 22px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 401px;
+    font-size: 22px;
+
+}
+
+.menulogo1 img{
+    height: 34px;
+    float: left;
+    margin-top: -7px;
+    margin-left: -115px;
+}
+
+.Services{
+	margin-top: 100px;
+}
+
+.row1 {
+	display: flex;
+}
+
